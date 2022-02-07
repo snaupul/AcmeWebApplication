@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeWebApplication", "AcmeWebApplication\AcmeWebApplication.csproj", "{5542C0AA-6F94-4CC9-8576-612C7304CCC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestForWebApp", "UnitTestForWebApp\UnitTestForWebApp.csproj", "{CAAB1D76-14DB-4338-B710-3EE5F05AD37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5542C0AA-6F94-4CC9-8576-612C7304CCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5542C0AA-6F94-4CC9-8576-612C7304CCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5542C0AA-6F94-4CC9-8576-612C7304CCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5542C0AA-6F94-4CC9-8576-612C7304CCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAB1D76-14DB-4338-B710-3EE5F05AD37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAB1D76-14DB-4338-B710-3EE5F05AD37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAB1D76-14DB-4338-B710-3EE5F05AD37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAB1D76-14DB-4338-B710-3EE5F05AD37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A38DE5-2046-48CD-ADCC-81CF759B4DC3}
+	EndGlobalSection
+EndGlobal
